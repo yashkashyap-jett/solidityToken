@@ -1,4 +1,4 @@
-# Project Title
+# myToken
 
 This solidity program aims at demonstrating the functionality of Tokens using the basic syntax and functionality of the Solidity programming language.
 
